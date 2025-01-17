@@ -31,7 +31,7 @@ Sou Vinicius Augusto dos Santos, um desenvolvedor full stack com foco em constru
 ## 🌱 Um pouco mais sobre mim:
 
 - 🔭 Estou sempre trabalhando para melhorar minhas habilidades em desenvolvimento full stack.
-- 🎓 Estou prestes a concluir minha graduação em **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Graduação em **Análise e Desenvolvimento de Sistemas**.
 - 🏢 Já desenvolvi grandes projetos de backend para um hospital importante, incluindo a automação de solicitações de prontuários médicos e desenvolvimento de um CMS personalizado.
 - 💡 Meu maior diferencial técnico é a capacidade de desenvolver sistemas em prazos curtos, com foco em detalhes e performance.
 - 🚀 Meu objetivo pessoal é aprender continuamente novas tecnologias e aplicá-las em projetos reais.
