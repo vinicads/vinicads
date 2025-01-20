@@ -16,6 +16,7 @@ Sou Vinicius Augusto dos Santos, um desenvolvedor full stack com foco em constru
 - **Frontend:**  
   - **Vue.js** (foco principal)  
   - **React** (conhecimento básico)
+  - **Angular** (conhecimento intermediário)
 
 - **Outros:**  
   - Desenvolvimento de APIs REST  
