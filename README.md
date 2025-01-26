@@ -11,7 +11,8 @@ Sou Vinicius Augusto dos Santos, um desenvolvedor full stack com foco em constru
 - **Backend:**  
   - **Nest.js** (foco principal)  
   - **Express.js** (conhecimento básico)  
-  - **Go** (conhecimento básico)
+  - **Go** (conhecimento intermediário)
+  - **.Net** (conhecimento intermediário)
   
 - **Frontend:**  
   - **Vue.js** (foco principal)  
